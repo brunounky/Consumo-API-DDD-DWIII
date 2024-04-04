@@ -25,3 +25,5 @@ urllib3==2.2.1
 ## Observações
 
 - Projeto desenvolvido na aula de Desenvolvimento WEB III - Fatec Araras 2024
+- URL do site com APIs gratuitas do governo https://brasilapi.com.br/docs#operation/searchcities(/cptec/v1/cidade/:cityName)
+- URL get utilizada https://brasilapi.com.br/api/ddd/v1/{ddd}
