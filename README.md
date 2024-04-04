@@ -22,6 +22,6 @@ idna==3.6
 requests==2.31.0
 urllib3==2.2.1
 
-## Notas
+## Observações
 
 - Projeto desenvolvido na aula de Desenvolvimento WEB III - Fatec Araras 2024
