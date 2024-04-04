@@ -1,8 +1,12 @@
 import requests
 import json
 
-URL = "https://receitaws.com.br/v1"
-req = requests.get("https://receitaws.com.br/v1/cnpj/{08327285000181}")
-dados_recebidos = req.json()
+def main():
+    URL = "https://brasilapi.com.br/api/ddd/v1/15"
+    req = requests.get(URL)
+    dados_recebidos = req.json()
 
+    print(json.loads(req.content))
 
+if __name__ == "__main__":
+    main()
